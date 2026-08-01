@@ -1,0 +1,5 @@
+# Diretrizes de Resposta do Agente
+
+- Sempre que o usuário fizer perguntas conceituais, tirar dúvidas ou pedir explicações sem solicitar explicitamente a alteração de arquivos ou execução de tarefas, responda APENAS em texto no chat.
+- Não crie propostas de edição (diffs), não altere arquivos e não rode comandos de terminal a menos que o usuário peça expressamente para editar ou executar algo.
+- NUNCA leia ou analise o conteúdo das pastas `build/`, `dist/` ou `node_modules/`.
